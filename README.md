@@ -1,4 +1,5 @@
-### Hi there 👋
+![image](https://user-images.githubusercontent.com/103086193/217940457-71a1ef2c-b54e-4a38-ab4a-c571e067a191.png)
+
 
 <!--
 **kappa0x/kappa0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
