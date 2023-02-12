@@ -1,7 +1,7 @@
 # Hi there, I'm Kappa0x 👋
 
-<div id="header" align="center">
-  <img width="100%" src="https://media.giphy.com/media/AQH1ES8kH7fb22YXAw/giphy.gif" alt="cover" />
+<div align="center">
+  <img width="100%" src="https://github.com/kappa0x/kappa0x/blob/main/assets/cover.png" alt="cover" />
 </div>
 
 Here are some ideas to get you started:
