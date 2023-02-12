@@ -4,7 +4,6 @@
 </div>
 
 <img  src="assests/borderseperator.gif">
-<br>
 
 <a href="https://app.daily.dev/HyunCafe"> <img align='right' src="https://api.daily.dev/devcards/e7a301739d004f1f99c4ce18c050b111.png?r=d7k" width="350" alt="HyunSun's Dev Card" /></a>
 
