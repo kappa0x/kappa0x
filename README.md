@@ -5,8 +5,6 @@
 
 <img  src="assests/borderseperator.gif">
 
-<a href="https://app.daily.dev/HyunCafe"> <img align='right' src="https://api.daily.dev/devcards/e7a301739d004f1f99c4ce18c050b111.png?r=d7k" width="350" alt="HyunSun's Dev Card" /></a>
-
 <h2 align="center">Passionate coder who loves to create, even in the middle of the night</h2>
 
 * 🌳 I’m currently learning Vanilla JavaScript! <br> 
