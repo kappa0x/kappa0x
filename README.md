@@ -1,3 +1,4 @@
+# What's Up 👋
 <div align="center">
   <img width="100%" src="https://github.com/kappa0x/kappa0x/blob/main/assets/cover.png" alt="cover" />
 </div>
