@@ -5,7 +5,7 @@
 **kappa0x/kappa0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/AQH1ES8kH7fb22YXAw/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/AQH1ES8kH7fb22YXAw/giphy.gif" width="99" />
 </div>
 
 Here are some ideas to get you started:
