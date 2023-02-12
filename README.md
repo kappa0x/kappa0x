@@ -6,4 +6,4 @@
 <img  src="assests/borderseperator.gif">
 
 ## About me
-I'm Sayfedine Isaac Lotfi, a passionate coder and recent graduate of Computer Science from France. Full-Stack developer, AI/Blockchain enthusiast and expert in Javascript & Typescript (Nodejs/React). Love to create even in the middle of the night and always looking for new challenges.
+I'm Sayfedine Isaac Lotfi, a passionate coder and French computer science student. Full-Stack developer, AI/Blockchain enthusiast and expert in Javascript & Typescript (Nodejs/React). Likes to create even in the middle of the night and always looking for new challenges.
