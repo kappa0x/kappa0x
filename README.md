@@ -4,6 +4,6 @@
 </div>
 
 ## About me
-I'm Sayf Lotfi, a passionate coder and French computer science student. Full-Stack developer, AI/Blockchain enthusiast and expert in Javascript & Typescript (Nodejs/React). Likes to create even in the middle of the night and always looking for new challenges.
+Sayf Lotfi, French computer student. Full-Stack dev, AI/Blockchain newbie enthusiast. Javascript & Typescript ninja 🥷. Nodejs & React superhero🦸. Solving problems all day to level up, 'cause why not?
 
 <img  width="100" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="center">
