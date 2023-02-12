@@ -3,6 +3,7 @@
   <img width="100%" src="https://github.com/kappa0x/kappa0x/blob/main/assets/cover.png" alt="cover" />
 </div>
 
+<h2 align="center">Passionate coder who loves to create, even in the middle of the night.<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="30"/></h2>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
