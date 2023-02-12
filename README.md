@@ -1,5 +1,7 @@
+# Hi there, I'm Kappa0x 👋
 <div align="center">
   <h3>What's up! 👋</h3>
+</div>
 
 <div align="center">
   <img width="100%" src="https://github.com/kappa0x/kappa0x/blob/main/assets/cover.png" alt="cover" />
